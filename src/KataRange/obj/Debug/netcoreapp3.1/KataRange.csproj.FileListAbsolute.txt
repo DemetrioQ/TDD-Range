@@ -1,0 +1,9 @@
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\bin\Debug\netcoreapp3.1\KataRange.deps.json
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\bin\Debug\netcoreapp3.1\KataRange.dll
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\bin\Debug\netcoreapp3.1\KataRange.pdb
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\obj\Debug\netcoreapp3.1\KataRange.csprojAssemblyReference.cache
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\obj\Debug\netcoreapp3.1\KataRange.csproj.CoreCompileInputs.cache
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\obj\Debug\netcoreapp3.1\KataRange.AssemblyInfoInputs.cache
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\obj\Debug\netcoreapp3.1\KataRange.AssemblyInfo.cs
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\obj\Debug\netcoreapp3.1\KataRange.dll
+C:\Code\Tendencias Lab\Practica 5\src\KataRange\obj\Debug\netcoreapp3.1\KataRange.pdb
